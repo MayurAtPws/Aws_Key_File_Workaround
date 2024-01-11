@@ -8,6 +8,8 @@ This repository contains information on how to regain access to an EC2 instance 
     The simplest way is to create a AMI of the instance and creating a new instance with a new key using the AMI
 
 
+the following a way to do in the Production Env
+
 ## Steps
 
 Consider Having a Ubuntu instance called **Instance-A** and you have lost its key (.pem file)
